@@ -21,3 +21,4 @@ uploads/
 .cache/
 evals/latest_report.json
 *.log
+frontend/app.py.backup
