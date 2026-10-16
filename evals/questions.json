@@ -1,0 +1,7 @@
+[
+  {
+    "question": "Replace this with a question answered by your uploaded PDF.",
+    "expected_source": "your_document.pdf",
+    "expected_answer_keywords": ["replace", "these", "keywords"]
+  }
+]
